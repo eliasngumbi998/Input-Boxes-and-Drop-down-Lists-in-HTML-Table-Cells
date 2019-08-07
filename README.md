@@ -1,0 +1,2 @@
+# Input-Boxes-and-Drop-down-Lists-in-HTML-Table-Cells
+This is just a simple demonstration for students studying html , css and Javascript.  The attached zip contains source code to demonstrate how to integrate CSS, HTML and JavaScript to style a table and put form elements into the cells of the table. The cells of the table contain neatly fitted input boxes, drop-down selection lists and checkboxes. When you click on a checkbox on a row it selects that row.
